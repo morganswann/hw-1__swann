@@ -28,8 +28,8 @@ The beverage alcohol industry is experiencing a significant challenge. Many cons
 
 ## Notes on Final Draft
 
-**What I changed myself: The introduction & problem paragraphs
+**What I changed myself:** The introduction & problem paragraphs
 
-**Why I changed it: I revised the paragraphs above to better reflect my writing style.
+**Why I changed it:** I revised the paragraphs above to better reflect my writing style.
 
-**One thing assistant wrote that I did not want to keep as-is: Since this was my first attempt using an assistant, I expected it to better enhance the “How AI Could Help” section. While the result was solid, it felt somewhat surface-level. However, this could also reflect limitations in how I structured my prompt.
+**One thing assistant wrote that I did not want to keep as-is:** Since this was my first attempt using an assistant, I expected it to better enhance the “How AI Could Help” section. While the result was solid, it felt somewhat surface-level. However, this could also reflect limitations in how I structured my prompt.
