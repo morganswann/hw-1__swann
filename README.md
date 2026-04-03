@@ -11,3 +11,6 @@ I created a local folder, ran git init, connected it to GitHub with a remote, an
 - Initial commit: basic repository setup
 - Add notes to assistant_draft.md
 - Add final_version.md with my own edits
+
+## Youtube Link
+https://youtu.be/XxT3Q29q6DE
