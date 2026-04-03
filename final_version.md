@@ -26,7 +26,7 @@ The beverage alcohol industry is experiencing a significant challenge. Many cons
 
 ---
 
-## Notes on Final Draft
+## Notes on Final Version
 
 **What I changed myself:** The introduction & problem paragraphs
 
